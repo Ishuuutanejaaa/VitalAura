@@ -1,0 +1,14 @@
+/* Custom styles to complement Bootstrap */
+
+body {
+  background-color: #f0f8ff; /* Light blue background */
+}
+
+header h1 {
+  color: #0044cc; /* Dark blue */
+}
+
+footer p {
+  color: #666;
+}
+
